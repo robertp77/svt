@@ -7,4 +7,4 @@ How to test API:
 
 Next, I would create a visualization of the grid, plot the robots with their
 battery levels, the load coordinates, and a line connecting the load to its
-robot.
+robot. I would do this using glowscript for the plotting.
